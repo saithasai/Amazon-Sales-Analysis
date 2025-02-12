@@ -25,7 +25,7 @@ Exploratory Data Analysis (EDA)
 
 ## Amazon Sales Tableau dashboard :
 
-<img width="960" alt="tab_amaz" src="https://github.com/saithasai/Amazon_Sales_Analysis/assets/84937491/c935c228-d048-44d5-bbe7-df9cf8178766">
+<img width="960" alt="Image" src="https://github.com/user-attachments/assets/50f5ae01-f963-4b58-aeb0-50e940d1be4b" /> 
 
 ### Technologies used:
 Tableau 2024.1
